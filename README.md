@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Idlmhor</h1>
-<h3 align="center">A passionate web developer</h3>
+<h5>Hi 👋, I'm Mohamed Idlmhor</h5>
+
 
 <!--
 **idmed22/idmed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
